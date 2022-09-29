@@ -10,5 +10,7 @@ public class CowApplication {
         SpringApplication.run(CowApplication.class, args);
     }
 
+
+
 }
 
